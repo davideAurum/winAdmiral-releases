@@ -3,28 +3,28 @@
   "version": 1,
   "product": "winAdmiral",
   "release": {
-    "version": "0.1.0-alpha.5",
-    "notesUrl": "https://github.com/davideAurum/winAdmiral-releases/releases/tag/v0.1.0-alpha.5",
+    "version": "0.1.0-alpha.6",
+    "notesUrl": "https://github.com/davideAurum/winAdmiral-releases/releases/tag/v0.1.0-alpha.6",
     "setup": {
-      "file": "winAdmiral-0.1.0-alpha.5-setup.exe",
-      "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.5/winAdmiral-0.1.0-alpha.5-setup.exe",
-      "bytes": 44514268,
-      "sha256": "c56ffd08fdf37e7ea66dffe1a095c7dfc1bafa420923144edf138dd3941a2707"
+      "file": "winAdmiral-0.1.0-alpha.6-setup.exe",
+      "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.6/winAdmiral-0.1.0-alpha.6-setup.exe",
+      "bytes": 3260031,
+      "sha256": "333e211a6e1b209c9b6628ecbbbe1f678defd7ea8e792c77d9da23334565a5f5"
     },
     "packages": [
       {
         "kind": "framework-dependent",
-        "file": "winAdmiral-0.1.0-alpha.5-win-x64-framework-dependent.zip",
-        "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.5/winAdmiral-0.1.0-alpha.5-win-x64-framework-dependent.zip",
-        "bytes": 1232433,
-        "sha256": "04d3eda76208e32de1a87dad2ebd311671c755983f1dcca6c3d61b3094086abb"
+        "file": "winAdmiral-0.1.0-alpha.6-win-x64-framework-dependent.zip",
+        "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.6/winAdmiral-0.1.0-alpha.6-win-x64-framework-dependent.zip",
+        "bytes": 1313967,
+        "sha256": "01899ce1b59ce74d6a56d2b3b35fbaed11bec1e6d38fce491d0dc360b068d080"
       },
       {
         "kind": "self-contained",
-        "file": "winAdmiral-0.1.0-alpha.5-win-x64-self-contained.zip",
-        "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.5/winAdmiral-0.1.0-alpha.5-win-x64-self-contained.zip",
-        "bytes": 58774444,
-        "sha256": "104f52b8ec3bcb4ae405803acee8a3029c30581911fbbc3dc0f302ae0cecd770"
+        "file": "winAdmiral-0.1.0-alpha.6-win-x64-self-contained.zip",
+        "url": "https://github.com/davideAurum/winAdmiral-releases/releases/download/v0.1.0-alpha.6/winAdmiral-0.1.0-alpha.6-win-x64-self-contained.zip",
+        "bytes": 58854821,
+        "sha256": "dcc5eb4af18a614b162c199f3fb7b49878e2535bd64a0338c1ec14a06853e112"
       }
     ]
   }
